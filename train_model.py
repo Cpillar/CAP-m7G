@@ -94,7 +94,7 @@ for num_cap in num_cap_list:
                 train_loss += loss.item()
 
             avg_train_loss = train_loss / len(train_loader)
-            print("Train Loss: {avg_train_loss:.4f}")
+            print(f"Train Loss: {avg_train_loss:.4f}" )
 
             capsule_net.eval()
             with torch.inference_mode():

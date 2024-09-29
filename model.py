@@ -81,7 +81,6 @@ class DigitCaps(nn.Module):
 
         num_iterations = 3
         for iteration in range(num_iterations):
-            print(c_ij.size())
             c_ij = F.softmax(b_ij)
             c_ij = torch.cat([c_ij] * batch_size, dim=0).unsqueeze(4)
 

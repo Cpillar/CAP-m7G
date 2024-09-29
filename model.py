@@ -1,7 +1,7 @@
 '''
 
 The model is adapted from https://github.com/higgsfield/Capsule-Network-Tutorial
-Modified and applied to 64 * 64 CGR images by Peilin
+Modified and applied to 64 * 64 CGR images
 
 '''
 

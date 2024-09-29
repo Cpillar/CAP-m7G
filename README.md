@@ -1,4 +1,4 @@
-**you can get our trained model from：**https://drive.google.com/drive/folders/1PD2l1DGxwOCkjfYui-NtQVETBxawCHi3?usp=sharing
+you can get our trained model from：https://drive.google.com/drive/folders/1PD2l1DGxwOCkjfYui-NtQVETBxawCHi3?usp=sharing
 
 And the model is adapted from https://github.com/higgsfield/Capsule-Network-Tutorial
 
